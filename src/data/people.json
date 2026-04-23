@@ -12,7 +12,7 @@
     },
     { 
       "name": "Christian Bach", 
-      "role": "CCO", 
+      "role": "Co-Founder", 
       "category": "Architect", 
       "twitter": "https://twitter.com/Chr_Bach",
       "linkedin": "https://www.linkedin.com/in/christianbachdk/",
@@ -26,9 +26,34 @@
       "linkedin": "https://www.linkedin.com/in/dglawson/",
       "location": "Portland, OR",
       "quote": "Your leadership is the steady pulse that guides our technical ambitions."
+    },
+    { 
+      "name": "Iain Hassall", 
+      "role": "CFO", 
+      "category": "Architect", 
+      "linkedin": "https://www.linkedin.com/in/iainhassall/",
+      "location": "San Francisco, CA",
+      "quote": "Precision in the numbers that fuel our creative freedom."
     }
   ],
   "engines": [
+    { 
+      "name": "Dan Barak", 
+      "role": "Product Leadership", 
+      "category": "Engine", 
+      "linkedin": "https://www.linkedin.com/in/danbarak/",
+      "location": "San Francisco, CA",
+      "quote": "Refining the machine so the makers can focus on the soul of their work."
+    },
+    { 
+      "name": "Michelle Herman", 
+      "role": "Head of Marketing", 
+      "category": "Engine", 
+      "twitter": "https://x.com/m_herman6", 
+      "linkedin": "https://www.linkedin.com/in/michelleherman/",
+      "location": "San Francisco, CA",
+      "quote": "Marketing & Communications Leader. Storyteller. Brand Builder."
+    },
     { 
       "name": "Domitrius Clark", 
       "role": "Community", 
@@ -49,32 +74,45 @@
       "quote": "Mapping the frontier of AI with grace and brilliance. Truly inspiring."
     },
     { 
-      "name": "Michelle Herman", 
-      "role": "Sales", 
-      "category": "Engine", 
-      "twitter": "https://x.com/m_herman6", 
-      "linkedin": "https://www.linkedin.com/in/michelleherman/",
-      "location": "San Francisco, CA",
-      "quote": "Marketing & Communications Leader. Storyteller. Brand Builder."
-    },
-    { 
-      "name": "KP", 
-      "role": "Community/Build in Public", 
+      "name": "Karthik Puvvada", 
+      "role": "Head of Community", 
       "category": "Engine", 
       "twitter": "https://twitter.com/thisiskp_", 
       "linkedin": "https://www.linkedin.com/in/karthikpuvvada/",
-      "location": "GA",
+      "location": "Atlanta, GA",
       "quote": "A masterclass in authenticity. You've taught us to ship with our hearts open."
     },
     { 
-      "name": "Jason Lengstorf", 
-      "role": "Legacy DX / Boop", 
+      "name": "Stephanie Clay", 
+      "role": "VP, Enterprise Sales", 
       "category": "Engine", 
-      "twitter": "https://twitter.com/jlengstorf", 
-      "github": "https://github.com/jlengstorf", 
-      "linkedin": "https://linkedin.com/in/jlengstorf",
-      "location": "Portland, OR",
-      "quote": "You make the complex feel like play. Thank you for the light."
+      "linkedin": "https://www.linkedin.com/in/stephanieclay/",
+      "location": "San Carlos, CA",
+      "quote": "Connecting visionaries with the tools they need to scale the future."
+    },
+    { 
+      "name": "Dorian Kendal", 
+      "role": "CMO", 
+      "category": "Engine", 
+      "linkedin": "https://www.linkedin.com/in/dorian-kendal-a1b7291/",
+      "location": "San Francisco, CA",
+      "quote": "Defining the narrative of the modern web with unmatched clarity."
+    },
+    { 
+      "name": "Mark Dorsi", 
+      "role": "CISO", 
+      "category": "Engine", 
+      "linkedin": "https://www.linkedin.com/in/markdorsi/",
+      "location": "San Francisco, CA",
+      "quote": "The silent guardian of our infrastructure, ensuring trust at every layer."
+    },
+    { 
+      "name": "Zeeshan Yoonas", 
+      "role": "CRO", 
+      "category": "Engine", 
+      "linkedin": "https://www.linkedin.com/in/zeeshan-yoonas-7a63001/",
+      "location": "San Francisco, CA",
+      "quote": "Scaling our reach to every corner of the enterprise ecosystem."
     },
     { 
       "name": "Phil Hawksworth", 
@@ -85,16 +123,6 @@
       "linkedin": "https://linkedin.com/in/philhawksworth",
       "location": "London, UK",
       "quote": "The voice of clarity in the web's evolution. A true legend."
-    },
-    { 
-      "name": "Cassidy Williams", 
-      "role": "Legacy DX", 
-      "category": "Engine", 
-      "twitter": "https://twitter.com/cassidoo", 
-      "github": "https://github.com/cassidoo", 
-      "linkedin": "https://www.linkedin.com/in/cassidoo/",
-      "location": "Seattle, WA",
-      "quote": "Building the web with a smile and a sense of wonder. You're the best."
     }
   ],
   "vanguard": [
